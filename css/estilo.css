@@ -60,9 +60,10 @@ color: #fff;}
  grid-gap:30px;
  padding: 35px 0px; }
 }
-
-.somos {background-color: #ffffff }
-
+.carousel{ text-align: center;}
+.somos {background-color:#ff304f;
+padding:1em; margin: 30px; margin-top: 20px; color:#f9ff21  }
+.somos h1 {text-align: center;}
  .carousel-inner {
    max-height: 39rem
  }
